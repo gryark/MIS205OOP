@@ -15,3 +15,7 @@ Pearson, Boston, MA, 2020 (1 -13 Chapters)
 2. Weisfeld, M. (2008). The object-oriented thought process. Pearson Education. (All chapters)
 # Supplementary References:
 1. Sierra, K., & Bates, B. (2005). Head First Java: A Brain-Friendly Guide. " O'Reilly Media, Inc.".
+
+# Tools
+1. IntelliJ Idea
+2. Eclipse
