@@ -4,7 +4,7 @@
 The main objective of this course is to learn principles and stages of object-oriented software development.
 
 # Activities
-** Course hours (Including the exam week): 16 x total course hours)
+** Course hours (Including the exam week): 16 x total course weeks)
 - Quizzes - 2 X 10
 - Final Exam - 1 X 50
 - Project - 1 X 30
