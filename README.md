@@ -1,7 +1,7 @@
 # MIS205 OOP
 * Ostim Technical University 2023-2024 Fall MIS 205 Object Oriented Programming
 # Objectives:
-The main objective of this course is to learn principles and stages of object-oriented software development.
+The main objective of this course is to learn principles and stages of object-oriented software development with JAVA.
 
 # Activities
 ** Course hours (Including the exam week): 16 x total course weeks)
