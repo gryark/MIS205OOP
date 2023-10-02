@@ -1,5 +1,5 @@
 # Liang, Introduction to Java Programming and Data Structures:
-Chapter 1. Introduction to Computers, Programs, and Java™
+# Chapter 1. Introduction to Computers, Programs, and Java™
 	1.1 Introduction
 	1.2 What Is a Computer?
 	1.3 Programming Languages
@@ -12,7 +12,7 @@ Chapter 1. Introduction to Computers, Programs, and Java™
 	1.10 Programming Errors
 	1.11 Developing Java Programs Using NetBeans
 	1.12 Developing Java Programs Using Eclipse
-Chapter 2. Elementary Programming
+# Chapter 2. Elementary Programming
 	2.1 Introduction
 	2.2 Writing a Simple Program
 	2.3 Reading Input from the Console
@@ -32,7 +32,7 @@ Chapter 2. Elementary Programming
 	2.17 Software Development Process
 	2.18 Case Study: Counting Monetary Units
 	2.19 Common Errors and Pitfalls
-Chapter 3. Selections
+# Chapter 3. Selections
 	3.1 Introduction
 	3.2 boolean Data Type, Values, and Expressions
 	3.3 if Statements
@@ -49,14 +49,14 @@ Chapter 3. Selections
 	3.14 Conditional Operators
 	3.15 Operator Precedence and Associativity
 	3.16 Debugging
-Chapter 4. Mathematical Functions, Characters, and Strings
+# Chapter 4. Mathematical Functions, Characters, and Strings
 	4.1 Introduction
 	4.2 Common Mathematical Functions
 	4.3 Character Data Type and Operations
 	4.4 The String Type
 	4.5 Case Studies
 	4.6 Formatting Console Output
-Chapter 5. Loops
+# Chapter 5. Loops
 	5.1 Introduction
 	5.2 The while Loop
 	5.3 Case Study: Guessing Numbers
@@ -71,7 +71,7 @@ Chapter 5. Loops
 	5.12 Keywords break and continue
 	5.13 Case Study: Checking Palindromes
 	5.14 Case Study: Displaying Prime Numbers
-Chapter 6. Methods
+# Chapter 6. Methods
 	6.1 Introduction
 	6.2 Defining a Method
 	6.3 Calling a Method
@@ -83,7 +83,7 @@ Chapter 6. Methods
 	6.9 The Scope of Variables
 	6.10 Case Study: Generating Random Characters
 	6.11 Method Abstraction and Stepwise Refinement
-Chapter 7. Single-Dimensional Arrays
+# Chapter 7. Single-Dimensional Arrays
 	7.1 Introduction
 	7.2 Array Basics
 	7.3 Case Study: Analyzing Numbers
@@ -97,7 +97,7 @@ Chapter 7. Single-Dimensional Arrays
 	7.11 Sorting Arrays
 	7.12 The Arrays Class
 	7.13 Command-Line Arguments
-Chapter 8. Multidimensional Arrays
+# Chapter 8. Multidimensional Arrays
 	8.1 Introduction
 	8.2 Two-Dimensional Array Basics
 	8.3 Processing Two-Dimensional Arrays
@@ -106,7 +106,7 @@ Chapter 8. Multidimensional Arrays
 	8.6 Case Study: Finding the Closest Pair
 	8.7 Case Study: Sudoku
 	8.8 Multidimensional Arrays
-Chapter 9. Objects and Classes
+# Chapter 9. Objects and Classes
 	9.1 Introduction
 	9.2 Defining Classes for Objects
 	9.3 Example: Defining Classes and Creating Objects
@@ -121,7 +121,7 @@ Chapter 9. Objects and Classes
 	9.12 Immutable Objects and Classes
 	9.13 The Scope of Variables
 	9.14 The this Reference
-Chapter 10. Object-Oriented Thinking
+# Chapter 10. Object-Oriented Thinking
 	10.1 Introduction
 	10.2 Class Abstraction and Encapsulation
 	10.3 Thinking in Objects
@@ -133,7 +133,7 @@ Chapter 10. Object-Oriented Thinking
 	10.9 The BigInteger and BigDecimal Classes
 	10.10 The String Class
 	10.11 The StringBuilder and StringBuffer Classes
-Chapter 11. Inheritance and Polymorphism
+# Chapter 11. Inheritance and Polymorphism
 	11.1 Introduction
 	11.2 Superclasses and Subclasses
 	11.3 Using the super Keyword
@@ -149,7 +149,7 @@ Chapter 11. Inheritance and Polymorphism
 	11.13 Case Study: A Custom Stack Class
 	11.14 The protected Data and Methods
 	11.15 Preventing Extending and Overriding
-Chapter 12. Exception Handlingand Text I/O
+# Chapter 12. Exception Handlingand Text I/O
 	12.1 Introduction
 	12.2 Exception-Handling Overview
 	12.3 Exception Types
@@ -163,7 +163,7 @@ Chapter 12. Exception Handlingand Text I/O
 	12.11 File Input and Output
 	12.12 Reading Data from the Web
 	12.13 Case Study: Web Crawler
-Chapter 13. Abstract Classes and Interfaces
+# Chapter 13. Abstract Classes and Interfaces
 	13.1 Introduction
 	13.2 Abstract Classes
 	13.3 Case Study: The Abstract Number Class
