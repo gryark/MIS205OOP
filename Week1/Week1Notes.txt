@@ -1,5 +1,5 @@
 // Object Oriented Programming
-Week -1
+Week-1
 + it is a concept, principals, connection with...
 
 Programming -> Computers
@@ -25,4 +25,13 @@ Java, C#, Kotlin, Python
 * Java Virtual Machine -> JVM
 * Java Runtime Environmet -> JRE
 * Java Development Kit --> JDK
+
+** ASSIGNMENTS **
+1. Download and Install JDK 17 to your computers
+https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+
+2. Download and Install IntelliJ IDEA Community Edition or Eclipse
+https://www.jetbrains.com/idea/download/
+https://www.eclipse.org/downloads/
+
 
