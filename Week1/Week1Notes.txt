@@ -1,26 +1,27 @@
 // Object Oriented Programming
-
+Week -1
 + it is a concept, principals, connection with...
 
 Programming -> Computers
 * Computers what to do
 
-We categorize two parts
+* We categorize two parts *
 
 1. Low level languages - Procedural, Functional Programming languages
 Assembly, C, Fortan, Basic
 2. High level languages - Object Oriented Languages
 Java, C#, Kotlin, Python
 
-We categorize according two compile type
+* We categorize according to compiled type
 1. Interpreted Languages - Python --> Source Code ---Interpreter ---Output
 2. Compiled Languages - Source code ---Compiler ---Machine Code ---Output C,C++
 
-Java, C# (.Net Core) -> Both in fact
+** Java, C# (.Net Core) -> Both in fact
 
 * Java is first compiled then executes
-- Test.java  --> Test.class (bytecode) --> 101010101010
+- Test.java  --> Test.class (bytecode) --> JVM ->  101010101010
 
+**JAVA TERMS**
 * Java Virtual Machine -> JVM
 * Java Runtime Environmet -> JRE
 * Java Development Kit --> JDK
