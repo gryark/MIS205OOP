@@ -1,10 +1,17 @@
+import java.lang.*;
 class Week3Notes{
   /***Variables (Primitives)
 
    **Numbers Literals :
    * byte, short, int, long
+   */
 
-   ** Numbers Floating Point :
+  public static void main(String[] args) {
+    byte age=50; //-128 Min 128 Max
+    System.out.println(age);
+  }
+
+   /** Numbers Floating Point :
    * float, double
 
    ** Char value:
